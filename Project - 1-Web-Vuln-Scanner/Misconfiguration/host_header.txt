@@ -1,9 +1,0 @@
-evil.com
-attacker-site.com
-localhost
-127.0.0.1
-example.com
-null
-www.google.com
-burpcollaborator.net
-random-subdomain.target.com

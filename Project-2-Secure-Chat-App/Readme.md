@@ -1,4 +1,4 @@
-# 🔐 Secure Channel V1: E2EE Chat Application
+# 🔐 Secure Channel V1: E2EE Chat Application (Project-2)
 
 ### 🚀 End-to-End Encrypted Real-Time Communication Platform
 **Status:** Production Ready | **Tech Stack:** Python, Flask-SocketIO, SQLite, Cryptography

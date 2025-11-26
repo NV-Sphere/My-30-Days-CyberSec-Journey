@@ -1,0 +1,11 @@
+http://evil.com
+//evil.com
+//google.com
+https://google.com
+javascript:alert(1)
+data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==
+///evil.com
+\/\/evil.com
+http://example.com.evil.com
+http://www.google.com
+/logout?redirect=http://evil.com

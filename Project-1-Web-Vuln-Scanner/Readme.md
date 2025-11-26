@@ -24,7 +24,7 @@ It is designed to detect critical web vulnerabilities (**OWASP Top 10**) while h
 
 #### 1. The Dashboard
 A real-time, Flask-based interface for managing scans and viewing live findings.
-![Dashboard Screenshot](path/to/dashboard_image.png)
+![Dashboard Screenshot](dashboard_image.png)
 
 #### 2. Modular Architecture Proof (The Payload Engine)
 The core strength is the separation of attack logic from the payloads. The scanner automatically adapts to new attack vectors added by researchers.
@@ -41,11 +41,11 @@ The core strength is the separation of attack logic from the payloads. The scann
 
 #### 3. Scan Execution (Terminal & Logs)
 The multi-threaded engine running in the background, handling complex requests and WAF tokens.
-![Terminal Execution]([images/terminal_image.png))
+![Terminal Execution](terminal_image.png)
 
 #### 4. Professional PDF Report
 An example of the automated report generated after a scan completion.
-![PDF Report Sample](path/to/report_image.png)
+![PDF Report Sample](report_image.png)
 
 ---
 

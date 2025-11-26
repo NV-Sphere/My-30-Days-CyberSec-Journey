@@ -1,4 +1,4 @@
-# 🛡️ Web Application Vulnerability Scanner (Project 01)
+# 🛡️ Web Application Vulnerability Scanner (Project-1)
 ## 🚀 Advanced Security Assessment Platform
 
 **Status:** Production Ready
@@ -41,7 +41,7 @@ The core strength is the separation of attack logic from the payloads. The scann
 
 #### 3. Scan Execution (Terminal & Logs)
 The multi-threaded engine running in the background, handling complex requests and WAF tokens.
-![Terminal Execution](path/to/terminal_image.png)
+![Terminal Execution]([images/terminal_image.png))
 
 #### 4. Professional PDF Report
 An example of the automated report generated after a scan completion.

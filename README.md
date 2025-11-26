@@ -19,6 +19,8 @@ This repository documents my daily tasks, hands-on learning, and professional re
 | **Day 06** | Password Strength Analysis and Best Practices | ✅ Done | [View Report](./Day-6-Password-Analysis/Readme.md) |
 | **Day 07** | Identify and Remove Suspicious Browser Extensions | ✅ Done | [View Report](./Day-7-Extension-Analysis/Readme.md) |
 | **Day 08** | Working with VPNs | ✅ Done | [View Report](./Day-8-VPN-Analysis/Readme.md) |
+| **Project 01** | Web Application Vulnerability Scanner (WAF Bypass & Reporting) | ✅ Done | [View Project](./Project-1-Web-Vuln-Scanner/Readme.md) |
+| **Project 02** | Secure Channel (E2EE Chat Application) | ✅ Done | [View Project](./Project-2-Secure-Chat-App/Readme.md) |
 
 ---
 
